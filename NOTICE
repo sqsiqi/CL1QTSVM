@@ -1,0 +1,9 @@
+CL1QTSVM
+Copyright 2025 Qi Si and contributors
+
+This repository contains the MATLAB implementation and benchmark data for the
+paper "A Kernel-Free Quadratic Surface Twin Support Vector Machine with Capped
+L1-Norm Distance Metric for Robust Classification".
+
+The benchmark datasets are redistributed for research reproducibility. Please
+cite the original dataset sources when using them.

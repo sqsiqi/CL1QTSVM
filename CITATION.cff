@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper."
+title: "A Kernel-Free Quadratic Surface Twin Support Vector Machine with Capped L1-Norm Distance Metric for Robust Classification"
+authors:
+  - family-names: "Si"
+    given-names: "Qi"
+  - family-names: "Yang"
+    given-names: "Zhi-Xia"
+year: 2025
+url: "https://github.com/sqsiqi/CL1QTSVM"
+license: "Apache-2.0"
+preferred-citation:
+  type: article
+  title: "A Kernel-Free Quadratic Surface Twin Support Vector Machine with Capped L1-Norm Distance Metric for Robust Classification"
+  authors:
+    - family-names: "Si"
+      given-names: "Qi"
+    - family-names: "Yang"
+      given-names: "Zhi-Xia"
+  journal: "Manuscript"
+  year: 2025
