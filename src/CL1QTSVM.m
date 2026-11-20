@@ -12,8 +12,9 @@ function  [V1,V2,VV1,VV2,f,FF1,FF2,kk]=CL1QTSVM(c,C,X,Y)
 % V1: The positive decision function parameter omega_+
 % FF1 and FF2 are used to analyze the convergence of the two objective function
 % Reference:
-%    Qi Si, Zhi-Xia Yang, et. al. "A kernel-free quadratic surface twin support vector machine with 
-%      capped $L_1$-norm distance metric for robust classification" Submitted 2025
+%    Qi Si, Zhixia Yang, Jinbiao Zhao, Rongda Chen. "A kernel-free quadratic surface twin support vector machine with
+%      capped $L_1$-norm distance metric for robust classification." Applied Soft Computing, 180 (2025) 113317.
+%      https://doi.org/10.1016/j.asoc.2025.113317
 %    Written by Qi Si (sq1418426889@163.com) 
 % The code certainly requires a lot of refinement, so if you have any good suggestions, please contact Qi Si.  
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

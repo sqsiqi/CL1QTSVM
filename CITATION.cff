@@ -5,7 +5,11 @@ authors:
   - family-names: "Si"
     given-names: "Qi"
   - family-names: "Yang"
-    given-names: "Zhi-Xia"
+    given-names: "Zhixia"
+  - family-names: "Zhao"
+    given-names: "Jinbiao"
+  - family-names: "Chen"
+    given-names: "Rongda"
 year: 2025
 url: "https://github.com/sqsiqi/CL1QTSVM"
 license: "Apache-2.0"
@@ -16,6 +20,14 @@ preferred-citation:
     - family-names: "Si"
       given-names: "Qi"
     - family-names: "Yang"
-      given-names: "Zhi-Xia"
-  journal: "Manuscript"
+      given-names: "Zhixia"
+    - family-names: "Zhao"
+      given-names: "Jinbiao"
+    - family-names: "Chen"
+      given-names: "Rongda"
+  journal: "Applied Soft Computing"
+  volume: 180
+  start: 113317
+  end: 113317
+  doi: "10.1016/j.asoc.2025.113317"
   year: 2025

@@ -99,9 +99,12 @@ If you use this code, please cite the paper:
 ```bibtex
 @article{si2025cl1qtsvm,
   title   = {A Kernel-Free Quadratic Surface Twin Support Vector Machine with Capped L1-Norm Distance Metric for Robust Classification},
-  author  = {Si, Qi and Yang, Zhi-Xia and others},
-  journal = {Manuscript},
-  year    = {2025}
+  author  = {Si, Qi and Yang, Zhixia and Zhao, Jinbiao and Chen, Rongda},
+  journal = {Applied Soft Computing},
+  volume  = {180},
+  pages   = {113317},
+  year    = {2025},
+  doi     = {10.1016/j.asoc.2025.113317}
 }
 ```
 
